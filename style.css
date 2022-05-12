@@ -1,0 +1,22 @@
+img {
+    display: inline-blockblock;
+    max-width: 100%;
+}
+
+.button {
+    background-color: #7a3e26;
+    color: white;
+    border-radius: 33px;
+}
+
+.howitworkssection {
+    background-color: #ffefe2;
+    color: black;
+}
+
+
+.footer {
+    background-color: #7a3e26;
+    color: white;
+}
+
