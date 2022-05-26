@@ -1,7 +1,8 @@
 img {
-    display: inline-blockblock;
+    display: inline-block;
     max-width: 100%;
 }
+
 
 .button {
     background-color: #7a3e26;
@@ -20,3 +21,37 @@ img {
     color: white;
 }
 
+/* Icon styling */
+.fa {
+    font-size: 75px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 20px;
+}
+
+/* Icon hover effect */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set all icons to white */
+i {
+    color: white;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.7;
+    color: white;
+}
